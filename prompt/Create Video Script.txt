@@ -1,0 +1,20 @@
+# Création de Script Vidéo (Format Téléprompteur)
+
+**Description :** Ce prompt agit comme un scénariste expert pour rédiger un script vidéo long format (2400+ mots), parfaitement formaté pour être lu sur un téléprompteur.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée un script pour téléprompteur d'au moins 2400 mots parlés pour une vidéo. Suis ces directives spécifiques :
+
+* **Formatage Téléprompteur :** Le contenu doit être clairement formaté pour une lecture facile : lignes courtes, lisibles ; sauts de ligne clairs pour les pauses naturelles ; ton conversationnel adapté à l'oral.
+* **Structure :** Maintiens une structure cohérente avec une introduction engageante, un corps informatif et une conclusion percutante.
+* **Sélection du sujet :** Choisis un sujet qui est informatif, engageant et qui peut naturellement tenir sur plus de 2400 mots de discours continu. Liste d'abord 3 à 5 idées de sujets potentiels, et explique brièvement pourquoi chacun fonctionnerait bien pour une vidéo longue. Attends ma confirmation du sujet final avant de continuer.
+* **Planification :** Une fois le sujet confirmé, fais le plan des sections clés ou des arguments avant de rédiger le script complet. Attends mon approbation du plan si nécessaire.
+* **Fluidité :** Assure-toi que le script s'écoule de manière fluide et logique du début à la fin, en gardant l'engagement de l'audience à l'esprit tout au long du texte.
+* **Ton et Style :** Utilise un langage naturel, des contractions (langage parlé), des figures de style (comme des questions rhétoriques au public), et un niveau d'enthousiasme et d'emphase approprié.
+* **Indications scéniques :** Indique des repères de rythme si nécessaire (ex : [pause], [prendre une respiration], [insister]), mais garde-les minimaux et non intrusifs.
+* **Vérification de la longueur :** Vérifie deux fois que le script final atteint bien au moins 2400 mots de contenu parlé réel (en excluant les instructions, les titres, etc.).
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

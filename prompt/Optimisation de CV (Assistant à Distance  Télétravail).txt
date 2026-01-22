@@ -1,0 +1,19 @@
+# Optimisation de CV (Assistant à Distance / Télétravail)
+
+**Description :** Ce prompt agit comme un coach carrière pour transformer un CV classique en un profil optimisé pour le travail à distance, en se concentrant sur les compétences clés et la compatibilité ATS.
+
+---
+
+**Prompt à copier-coller :**
+
+"Je souhaite mettre à jour mon CV pour postuler à un poste d'assistant à distance. Aide-moi à créer un CV sur mesure et optimisé en suivant ces étapes :
+
+* **Analyse de l'existant :** Demande-moi mon CV actuel ou une liste détaillée de mes expériences passées, compétences, éducation et certifications.
+* **Identification des compétences :** Identifie et recommande les compétences techniques (hard skills) et comportementales (soft skills) clés couramment requises pour les rôles d'assistant à distance (ex: communication, gestion du temps, maîtrise d'outils comme Zoom, Slack, Asana, etc.).
+* **Reformulation stratégique :** Aide-moi à reformuler mes responsabilités et réalisations actuelles pour qu'elles s'alignent avec les attentes typiques des postes en télétravail.
+* **Mise en valeur du 'Remote' :** Assure-toi que mon CV met l'accent sur toute expérience de télétravail pertinente, ou à défaut, sur des compétences transférables prouvant que je peux être performant en autonomie et à distance.
+* **Impact :** Suggère des verbes d'action forts et des réalisations chiffrées/quantifiables là où c'est possible pour maximiser l'impact du CV.
+* **Formatage ATS :** Structure le CV pour qu'il soit 'ATS-friendly' (lisible par les robots de recrutement) et visuellement clair pour les recruteurs humains.
+* **Optimisations finales :** Recommande des sections optionnelles (comme un résumé de profil, des compétences clés ou des mots-clés spécifiques) pour cibler parfaitement une offre d'assistant à distance.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour sur les tendances de recrutement."

@@ -1,0 +1,20 @@
+# Stratégie Marketing pour E-books
+
+**Description :** Ce prompt agit comme un directeur marketing pour créer un plan de promotion multi-canal complet, spécifiquement adapté à la vente de produits numériques (e-books) dans différentes niches.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée une stratégie marketing complète pour promouvoir des e-books sur plusieurs plateformes en ligne. Les e-books appartiennent à trois catégories : les relations humaines, le contenu destiné aux femmes, et la technologie.
+
+Pour chaque catégorie, fournis :
+
+* Une liste des plateformes de réseaux sociaux et des marketplaces en ligne les plus adaptées pour promouvoir cette catégorie spécifique.
+* Au moins trois idées de contenu promotionnel sur mesure par plateforme, incluant des exemples de posts pour les réseaux sociaux, de textes publicitaires (ad copy) ou d'idées d'articles de blog.
+* Des tactiques promotionnelles spécifiques à chaque plateforme (ex: hashtags, heures de publication, utilisation de publicités payantes, tactiques d'engagement communautaire).
+* Des recommandations pour les éléments visuels tels que les images, les graphismes ou le branding afin d'augmenter l'engagement.
+* Des suggestions pour tirer parti des influenceurs, de l'email marketing ou des opportunités de promotion croisée (cross-promotion) pertinentes pour chaque catégorie d'e-book.
+* Une chronologie ou un calendrier de publication pour assurer une portée optimale et une cohérence.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

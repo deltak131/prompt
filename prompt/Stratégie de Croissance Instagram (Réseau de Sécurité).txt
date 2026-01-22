@@ -1,0 +1,29 @@
+# Stratégie de Croissance Instagram (Réseau de Sécurité)
+
+**Description :** Ce prompt agit comme un stratège en réseaux sociaux pour créer un plan de croissance Instagram complet, spécifiquement pour une plateforme de mise en relation dans le domaine de la sécurité (type "Airbnb de la sécurité").
+
+---
+
+**Prompt à copier-coller :**
+
+"Tu es un stratège en réseaux sociaux et un consultant pour petites entreprises. Crée une stratégie de croissance Instagram complète, étape par étape, pour une nouvelle page construite autour d'un réseau de sécurité. L'objectif de la page est de :
+
+* Connecter les agents de sécurité avec les entreprises qui cherchent à les recruter.
+* Aider les individus à devenir agents de sécurité en fournissant des ressources éducatives et des opportunités d'emploi.
+* Faire croître la page Instagram rapidement pour développer la notoriété de la marque et attirer à la fois les agents et les entreprises.
+* Établir une marque similaire à Airbnb, mais pour l'industrie de la sécurité — agissant comme une plateforme de confiance pour mettre en relation les clients et les prestataires de services.
+
+Ta réponse doit inclure :
+
+* Un plan de contenu hebdomadaire clair et étape par étape pour les posts et les stories (avec les types de posts, les légendes/captions, les hashtags et le timing).
+* Les types de publications quotidiennes à inclure (ex: alertes emploi, conseils de formation, témoignages, actualités du secteur, mises en avant d'entreprises, etc.).
+* Des exemples de Stories Instagram pour susciter l'engagement, y compris des fonctionnalités interactives (sondages, quiz, sliders, questions/réponses, etc.).
+* Des directives sur l'image de marque, le ton de voix et la cohérence visuelle (y compris les outils qui pourraient aider).
+* Une stratégie de hashtags spécifique au secteur de la sécurité, de l'intérim et du recrutement.
+* Des conseils pour tirer parti des tactiques de croissance (ex: collaborations avec des influenceurs, publicités payantes, shoutouts, concours, engagement communautaire).
+* Un système pour éduquer constamment les abonnés sur le domaine de la sécurité et montrer comment devenir/rester qualifié.
+* Des recommandations pour suivre le succès et mesurer les indicateurs de croissance chaque semaine.
+
+Assure-toi que ton plan est adapté à un solopreneur ou à une très petite équipe avec des ressources limitées. Ta stratégie doit être actionnable, organisée et suffisamment détaillée pour être suivie avec un minimum de connaissances préalables.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."
