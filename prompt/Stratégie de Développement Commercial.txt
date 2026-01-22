@@ -1,0 +1,26 @@
+# Stratégie de Développement Commercial (Sécurité)
+
+**Description :** Ce prompt agit comme un consultant expert pour vous aider à lancer une entreprise de sécurité et décrocher vos premiers contrats.
+
+---
+
+**Prompt à copier-coller :**
+
+"Agis en tant qu'expert en développement commercial spécialisé dans les services de sécurité. Je lance ma première entreprise de sécurité et mon objectif est de décrocher 5 à 10 contrats de sécurité à long terme dans ma ville au cours de l'année à venir.
+
+Guide-moi à travers une stratégie complète, étape par étape, qui inclut :
+
+* **Identification des opportunités :** Comment identifier et découvrir les opportunités de contrats de sécurité publics et privés dans ma région, y compris les méthodes pour dénicher des opportunités méconnues ou cachées que je ne trouverais pas habituellement.
+* **Sourcing :** Les plateformes en ligne spécifiques, les portails gouvernementaux, les annuaires industriels et les stratégies hors ligne (ex: méthodes de réseautage, idées de démarchage) que je peux utiliser pour trouver des appels d'offres actifs ou des besoins de sécurité à venir.
+* **Analyse de viabilité :** Comment évaluer quels types de contrats de sécurité (ex: commercial, résidentiel, commerce de détail, sécurité événementielle, protection de chantier) sont les plus viables pour une nouvelle entreprise comme la mienne.
+* **Stratégie de prospection B2B :** L'élaboration de stratégies de vente, incluant comment effectuer efficacement du démarchage téléphonique (cold-calling), des emails, des messages via LinkedIn ou des approches en personne.
+* **Scripts de vente :** Des scripts mot pour mot ou des modèles de vente que je peux utiliser pour contacter des prospects, adaptés aux différents types de clients potentiels.
+* **Pitch et Confiance :** Comment pitcher mes services avec confiance et professionnalisme malgré le fait d'être une nouvelle entreprise, et les moyens de bâtir la confiance rapidement.
+* **Négociation :** Comment négocier les termes du contrat et les structures tarifaires pour qu'ils soient attractifs pour les clients tout en restant rentables.
+* **Crédibilité :** Des conseils pour construire un portfolio ou prouver ma crédibilité (comme par la sous-traitance, des programmes pilotes ou des témoignages).
+* **Proposition commerciale :** Comment structurer et présenter une proposition ou une offre persuasive, y compris les documents que je devrais inclure pour que mon entreprise se démarque.
+* **Légal et Conformité :** Une checklist des considérations légales, des licences et de la conformité qui pourraient augmenter mes chances de décrocher des contrats.
+
+**Bonus :** Tout exemple, checklist ou outil que tu recommandes pour rester organisé et réussir mon plan d'acquisition de contrats.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."
