@@ -1,0 +1,19 @@
+# Humaniser le Texte IA (Contourner la Détection)
+
+**Description :** Ce prompt agit comme un expert en linguistique et en IA pour explorer les techniques permettant de rendre un texte généré par l'IA indiscernable d'un texte humain (Humanize AI).
+
+---
+
+**Prompt à copier-coller :**
+
+"Explore des techniques et des méthodologies capables de transformer un texte généré par l'IA pour qu'il ressemble de manière convaincante à du contenu écrit par un humain.
+
+Ta réponse doit couvrir les points suivants :
+
+* **Compréhension de la Détection :** Explique les critères et les mécanismes par lesquels les systèmes de détection d'IA (comme GPTZero ou Turnitin) identifient le contenu généré par l'IA.
+* **Stratégies d'Humanisation :** Fournis des stratégies pratiques ou des étapes concrètes pour modifier le texte IA afin qu'il se fonde dans les styles d'écriture humains (ex: variation de la longueur des phrases, utilisation d'idiomes, imperfection volontaire), contournant potentiellement les détecteurs.
+* **Éthique :** Discute des considérations éthiques et des conséquences potentielles liées à la tentative de rendre le contenu généré par l'IA indétectable.
+* **Exemples Concrets :** Inclus des exemples ou des études de cas pour illustrer l'efficacité potentielle de ces techniques (Avant/Après).
+* **Créativité et Limites :** Encourage la créativité dans l'application de ces méthodes tout en restant conscient des directives légales et éthiques.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

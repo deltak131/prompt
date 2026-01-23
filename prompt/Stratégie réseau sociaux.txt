@@ -1,0 +1,52 @@
+# Stratégie réseau sociaux (Voyage de Luxe & MICE)
+
+**Description :** Ce prompt agit comme un directeur marketing pour créer une stratégie de contenu haut de gamme (Blog + Réseaux Sociaux) ciblant une clientèle d'entreprise (B2B) pour des voyages d'affaires et événements au Portugal.
+
+---
+
+**Prompt à copier-coller :**
+
+"J'ai besoin que tu crées une **Stratégie Réseaux Sociaux et Blog** complète ainsi qu'un **Calendrier de Contenu** pour une entreprise de gestion d'événements et de voyages de luxe spécialisée dans le **voyage de motivation d'entreprise (incentive), le MICE (Réunions, Incitations, Conférences, Événements) et les voyages de loisirs de luxe** au Portugal. L'entreprise cible principalement des **clients corporatifs et des organisateurs d'événements (B2B)** qui recherchent des expériences sur mesure et haut de gamme, avec un focus sur **[insérer ici les valeurs spécifiques si besoin, ex: durabilité, exclusivité]**.
+
+**Exigences pour la Stratégie et le Calendrier de Contenu :**
+
+1.  **Stratégie Globale :**
+    * Définis la **stratégie de marketing de contenu** alignée avec les objectifs de l'entreprise :
+        * **Notoriété de la marque (Brand Awareness) :** Positionner l'entreprise comme le fournisseur de voyages de luxe premium au Portugal.
+        * **Génération de leads :** Attirer des leads B2B qualifiés (clients corporatifs, organisateurs d'événements).
+        * **Engagement client :** Renforcer les relations avec les clients et partenaires actuels.
+    * Identifie les **piliers de contenu** clés qui soutiennent ces objectifs.
+
+2.  **Stratégie Réseaux Sociaux :**
+    * Recommande les **plateformes optimales** pour engager une audience B2B (ex: LinkedIn, Instagram).
+    * Définis les **types de contenu** pertinents pour chaque plateforme (ex: actualités du secteur, études de cas, mises en avant de destinations, témoignages).
+    * Suggère un **rythme de publication** (quotidien, hebdomadaire, etc.).
+    * Crée un **plan d'engagement** (ex: comment favoriser les interactions, gérer les messages privés, utiliser les hashtags).
+    * Esquisse des idées potentielles pour des **campagnes publicitaires payantes** (ad campaign) pour la portée et la génération de leads.
+
+3.  **Stratégie de Contenu de Blog :**
+    * Identifie des **sujets de blog clés** basés sur les intérêts de l'audience et la valeur SEO (ex: 'Top des destinations de voyage incentive au Portugal', 'Comment planifier une retraite d'entreprise au Portugal').
+    * Recommande une **fréquence de publication**.
+    * Fournis les **bonnes pratiques SEO** pour optimiser le contenu du blog.
+    * Suggère des stratégies de promotion croisée entre le blog et les réseaux sociaux.
+
+4.  **Calendrier de Contenu (Feuille de route sur 3-6 mois) :**
+    * Développe un **plan de contenu mensuel organisé** couvrant à la fois les articles de blog et les réseaux sociaux.
+    * Assigne des **thèmes de contenu** à des mois spécifiques (ex: focus sur la durabilité, études de cas d'événements).
+    * Inclus les **événements importants de l'industrie, les vacances et les tendances** à exploiter.
+
+5.  **Différenciation Concurrentielle :**
+    * Mets en avant les propositions de valeur uniques de la marque :
+        * **Expertise locale** (30+ années de savoir-faire dans l'industrie).
+        * **Offres axées sur la durabilité**.
+        * **Expériences VIP sur mesure**.
+    * Suggère des moyens d'incorporer ces avantages compétitifs dans le contenu.
+
+**Instructions :**
+* Assure-toi que la stratégie est optimisée pour une **image de marque de luxe et haut de gamme**.
+* Fournis des **exemples de posts spécifiques**, des titres et des idées d'articles de blog.
+* Suggère des **appels à l'action (CTA)** adaptés pour la génération de leads et l'engagement de l'audience.
+* Pense à des moyens de **recycler le contenu** (repurposing) à travers les plateformes pour plus d'efficacité.
+* Formate la réponse clairement avec des en-têtes structurés.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

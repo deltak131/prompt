@@ -1,0 +1,20 @@
+# Création de Logo (Brief Design & Concept)
+
+**Description :** Ce prompt agit comme un directeur artistique pour concevoir un logo unique mélangeant plusieurs cultures et concepts. Idéal pour créer des briefs précis pour des designers ou des IA génératrices d'images.
+
+---
+
+**Prompt à copier-coller :**
+
+"Conçois un logo pour une équipe appelée '12 Filipino Tarsier Throwers' qui participe à un événement nommé 'Arabian Bullseye'.
+
+Prends en compte les éléments suivants à inclure dans le logo :
+
+* **Le Tarsier :** La signification et les caractéristiques du tarsier, originaire des Philippines, qui peuvent inclure des traits comme ses grands yeux distinctifs et son petit corps.
+* **La Précision :** Des éléments qui représentent l'exactitude ou la précision, importants dans une compétition de type 'Bullseye' (cible).
+* **Fusion Culturelle :** Des styles artistiques ou des palettes de couleurs qui pourraient résonner à la fois avec la culture philippine et le contexte arabe de la compétition.
+* **Appel Visuel :** Assure-toi que le logo est visuellement attrayant et transmet à la fois la pertinence culturelle et l'esprit de compétition de l'équipe.
+* **Typographie :** Fournis des suggestions sur la typographie et tout élément graphique supplémentaire pouvant améliorer le design global.
+* **Modernité :** Considère l'utilisation de principes de design de logo modernes pour assurer que le logo soit polyvalent pour différents formats médias.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

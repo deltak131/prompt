@@ -1,0 +1,19 @@
+# Guide de Conception de Tunnel de Vente (Sales Funnel)
+
+**Description :** Ce prompt agit comme un architecte de conversion pour créer un guide complet sur la conception de tunnels de vente performants, de la page d'atterrissage jusqu'à la vente finale.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée un guide complet sur la conception d'un tunnel de vente (sales funnel) en commençant par la page d'atterrissage (landing page). Inclus des explications détaillées et des exemples pour chaque composant couramment trouvé dans les tunnels de vente. Assure-toi de couvrir les éléments suivants :
+
+* **Landing Page (Page d'atterrissage) :** Décris son rôle, ses fonctionnalités essentielles et les principes de design. Fournis des exemples de pages d'atterrissage réussies.
+* **Opt-in Page (Page de capture) :** Explique son but et ses éléments clés. Discute des stratégies pour encourager les conversions et fournis des exemples.
+* **Thank You Page (Page de remerciement) :** Souligne son importance dans le processus du tunnel et les bonnes pratiques de design. Inclus des exemples de pages de remerciement.
+* **Lead Magnet (Aimant à prospects) :** Décris ce qu'est un lead magnet et comment il est utilisé pour attirer des clients potentiels. Fournis des exemples de lead magnets efficaces (ebooks, webinaires, checklists, etc.).
+* **Vue d'ensemble du Tunnel de Vente Complet :** Donne un aperçu des types courants de tunnels de vente, comme les tunnels de lancement de produit, les tunnels de webinaire, et plus encore. Explique comment chaque type fonctionne et où chaque composant s'intègre dans le tunnel.
+
+Dans ta réponse, mets l'accent sur les meilleures pratiques et tous les outils qui peuvent aider à la conception et à l'optimisation de chaque partie du tunnel.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

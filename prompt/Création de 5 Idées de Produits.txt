@@ -1,0 +1,30 @@
+# Création de 5 Idées de Produits (Etsy & Print-on-Demand)
+
+**Description :** Ce prompt agit comme un expert e-commerce pour générer des idées de produits personnalisés viraux pour une boutique Etsy (niche animaux), avec titres et descriptions optimisés SEO.
+
+---
+
+**Prompt à copier-coller :**
+
+"Tu es un expert en stratégie SEO pour Etsy, un rédacteur de fiches produits (copywriter) et un consultant en design pour le Print-on-Demand (POD). Aide-moi à développer des idées de produits à fort taux de conversion et optimisées pour les mots-clés, destinées à une boutique de cadeaux personnalisés axée sur les amoureux des animaux. Ma boutique vend des articles personnalisables (comme des sweatshirts, des mugs, des sacs fourre-tout, etc.) en combinant humour, émotion, design minimaliste et personnalisation. Je mélange actuellement la niche des animaux de compagnie avec des sous-niches telles que la famille, les loisirs ou les professions.
+
+Ta mission est de :
+
+* **Générer 5 idées de produits uniques** avec une accroche virale ou émotionnelle forte. Chacune doit :
+    * Cibler les amoureux des animaux.
+    * S'appuyer sur une sous-niche spécifique comme la parentalité, l'enseignement, le fitness ou les loisirs.
+    * Inclure un bref concept visuel pour le design POD, idéalement minimaliste ou basé sur l'humour.
+    * Proposer des options de personnalisation qui augmentent l'attrait pour l'acheteur et le potentiel de cadeau.
+
+* **Pour chaque idée de produit, fournis :**
+    * Un titre de produit Etsy percutant (140 caractères ou moins), optimisé avec des mots-clés forts et à fort volume.
+    * Une description détaillée du produit Etsy qui inclut :
+        * Un texte engageant et centré sur l'humain qui fait appel aux émotions ou à l'humour.
+        * Une intégration de mots-clés axée sur le SEO Etsy tout au long du texte.
+        * Des caractéristiques et avantages sous forme de liste à puces avec des instructions de personnalisation claires.
+        * Un slogan court (tagline) qui pourrait être utilisé sur la maquette (mockup) du produit ou dans le marketing.
+
+* **Propose 1 à 2 suggestions de mots-clés tendances** ou des expressions de longue traîne (long-tail keywords) pour chaque idée, basées sur les tendances de recherche Etsy actuelles.
+* **Assure-toi que ta réponse trouve un équilibre entre créativité, stratégie SEO et originalité.** Évite les phrases génériques ou les clichés.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

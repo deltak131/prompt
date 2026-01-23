@@ -1,0 +1,29 @@
+# Lettre de Demande de Sponsoring (Équipe & Événement)
+
+**Description :** Ce prompt agit comme un responsable des partenariats pour rédiger une lettre de sponsoring convaincante. L'exemple est basé sur une équipe de sport, mais la structure est parfaite pour n'importe quelle demande de financement.
+
+---
+
+**Prompt à copier-coller :**
+
+"Rédige une lettre de demande de sponsoring pour soutenir les coûts des uniformes d'une équipe de 12 joueurs de fléchettes qui participent à la saison 2 du championnat 'Arabian Bullseye'. La lettre doit être :
+
+* **Directe et concise.**
+* **Claire sur l'échange :** Indiquer clairement que le sponsoring impliquera la mise en avant du logo du sponsor sur les uniformes de l'équipe.
+* **Axée sur la visibilité :** Inclure des détails sur la visibilité du logo du sponsor sur les plateformes de réseaux sociaux de l'Arabian Bullseye et de la PDC (Professional Darts Corporation).
+* **Orientée bénéfices :** Mettre l'accent sur les avantages pour le sponsor, en se concentrant sur l'exposition de la marque et les opportunités de partenariat.
+
+Structure la lettre pour inclure les sections suivantes :
+
+1.  **Introduction :**
+    * Présente brièvement l'équipe et le championnat.
+    * Énonce l'objectif de la demande de sponsoring.
+
+2.  **Avantages pour le Sponsor :**
+    * Explique comment le logo du sponsor sera mis en vedette sur les uniformes des joueurs.
+    * Décris l'exposition supplémentaire sur les plateformes de réseaux sociaux liées au tournoi.
+
+3.  **Appel à l'Action (CTA) :**
+    * Encourage une discussion plus approfondie ou une réunion pour fournir plus de détails ou clarifier l'accord de sponsoring.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

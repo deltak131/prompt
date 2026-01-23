@@ -1,0 +1,20 @@
+# Analyse du Public Cible (Avatar Client)
+
+**Description :** Ce prompt agit comme un directeur marketing pour réaliser une analyse approfondie de votre audience. Il permet de définir précisément qui sont vos clients, où ils se trouvent et comment leur parler.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée une analyse détaillée du public cible pour un produit ou un service donné. Ta réponse doit inclure les composants suivants :
+
+* **Identifier l'audience principale :** Décris le groupe principal de personnes visé par ton produit ou service. Inclus des facteurs pertinents comme leurs intérêts, leurs besoins et leurs points de douleur (pain points).
+* **Identifier l'audience secondaire :** Détermine les groupes supplémentaires qui pourraient également bénéficier du produit ou service, même s'ils ne sont pas la cible principale.
+* **Analyser le comportement du consommateur :** Explore les habitudes d'achat, les choix de vie et les processus de décision de ton public cible.
+* **Identifier les canaux et plateformes :** Détermine les plateformes de communication et les canaux les plus efficaces pour atteindre ton public cible. Prends en compte les médias numériques et traditionnels.
+* **Analyse concurrentielle :** Compare comment les concurrents ciblent la même audience. Identifie les lacunes ou les opportunités que tu peux exploiter pour mieux capter leur attention.
+* **Facteurs culturels et sociaux :** Prends en compte les tendances culturelles ou sociales qui influencent les préférences et le comportement de ton public cible.
+* **Cartographie du parcours client (Customer Journey) :** Trace le parcours typique que ton public cible emprunte, de la prise de conscience à l'achat. Mets en évidence les points de contact clés ou les moments de décision.
+* **Feedback et adaptation :** Décris des méthodes pour recueillir des retours de ton public cible afin d'affiner et d'améliorer les stratégies de ciblage.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

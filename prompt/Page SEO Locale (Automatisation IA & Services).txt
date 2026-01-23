@@ -1,0 +1,48 @@
+# Page SEO Locale (Automatisation IA & Services)
+
+**Description :** Ce prompt agit comme un expert SEO local pour rédiger une page d'atterrissage (landing page) optimisée pour une ville spécifique. Il utilise le cadre EEAT de Google pour vendre des services d'automatisation IA aux entreprises locales.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée une page de destination (landing page) complète pour '[Nom de votre Service, ex: Automatisation IA pour Entreprises]' située à [Votre Ville/Région]. Le contenu doit être optimisé pour le référencement local (Local SEO) et adapté pour résonner avec les chefs d'entreprise de [Votre Ville], en soulignant comment [Nom de votre Solution/IA] peut transformer leurs opérations. La page doit s'aligner sur le cadre EEAT de Google (Expérience, Expertise, Autorité, Fiabilité).
+
+Traite les éléments suivants :
+
+* **Introduction au Service :**
+    * Donne un bref aperçu de [Nom de votre Solution] et de sa valeur pour les entreprises de [Votre Ville].
+    * Décris les 6 services principaux avec une pertinence locale :
+        * **IA Vocale :** Interactions vocales naturelles disponibles 24/7, 365j/an.
+        * **Conversations IA :** Systèmes de chat intelligents disponibles 24/7.
+        * **Avis Clients IA :** Gestion automatisée des avis et de la réputation.
+        * **Entonnoirs (Funnels) & Sites Web :** Optimisation de la conversion.
+        * **Workflows IA :** Amélioration de l'efficacité par l'automatisation des processus.
+        * **Marketing de Contenu IA :** Visibilité accrue grâce à des solutions de contenu dynamique.
+    * Adapte les descriptions pour répondre aux défis rencontrés par les entreprises locales.
+
+* **Avantages Spécifiques pour les Propriétaires Locaux :**
+    * Détaille au moins trois avantages, tels que l'efficacité accrue grâce à la gestion des tâches 24/7, l'amélioration de l'engagement client et une meilleure réputation en ligne.
+
+* **Connexion Locale (Ancrage) :**
+    * Inclus 2 à 3 points de repère, quartiers ou références culturelles spécifiques à [Votre Ville] (ex: parcs connus, événements annuels, lieux emblématiques) pour montrer que vous connaissez le terrain.
+
+* **Répondre aux Défis Locaux :**
+    * Identifie des défis spécifiques aux entreprises de [Votre Ville] (ex: besoin de plus de trafic piétonnier, saisonnalité, concurrence locale) et montre comment l'IA apporte des solutions.
+
+* **Appel à l'Action (CTA) :**
+    * Encourage l'action avec des phrases comme 'Réservez une démo gratuite', 'Planifiez une consultation offerte' ou 'Prenez rendez-vous via ce lien Calendly : [Insérer votre lien]'.
+
+* **Intégration Naturelle des Mots-clés :**
+    * Incorpore naturellement le terme 'Automatisation IA' et '[Nom de la Ville]' tout au long du texte pour les moteurs de recherche.
+
+* **Pourquoi Choisir [Votre Entreprise] :**
+    * Explique pourquoi vous êtes le bon choix pour les entreprises de [Votre Ville], en mettant en avant vos références, votre expertise locale et votre engagement envers l'innovation.
+
+**Directives de rédaction :**
+* Vise un nombre de mots entre 500 et 750 mots.
+* Assure-toi que le contenu est engageant, informatif et optimisé pour l'expérience utilisateur.
+* Concentre-toi sur le contexte local tout en présentant les avantages de l'employé IA.
+* Respecte les directives EEAT de Google.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape."

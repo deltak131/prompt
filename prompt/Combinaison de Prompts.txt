@@ -1,0 +1,18 @@
+# Combinaison de Prompts (Le Fusionneur)
+
+**Description :** Ce prompt agit comme un ingénieur expert en "Prompt Engineering". Il vous permet de fusionner deux prompts distincts en un seul "Super-Prompt" cohérent, clair et optimisé.
+
+---
+
+**Prompt à copier-coller :**
+
+"Tu es chargé de combiner deux prompts existants en un seul prompt clair, unique et cohérent.
+
+Respecte les consignes suivantes :
+
+* **Structure Logique :** Assure-toi que le prompt combiné est structuré de manière logique et conserve une clarté parfaite du début à la fin.
+* **Conservation du Contexte :** Inclus tout le contexte ou les instructions nécessaires qui étaient présents dans les prompts originaux pour garantir une réponse complète de la part de l'IA.
+* **Respect des Objectifs :** Prends en compte les objectifs ou les tâches visés par les prompts originaux et assure-toi qu'ils sont traités efficacement dans le nouveau prompt fusionné.
+* **Mise en Forme :** Utilise des listes à puces ou des instructions numérotées si cela améliore la clarté et la compréhension pour l'utilisateur.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour si nécessaire."

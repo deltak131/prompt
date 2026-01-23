@@ -1,0 +1,20 @@
+# Stratégie de Contenu de Marque (Guide Global)
+
+**Description :** Ce prompt agit comme un directeur de la communication pour définir la stratégie éditoriale complète d'une marque. Il couvre tout : de la mission de l'entreprise jusqu'au calendrier de publication, en passant par le ton et les KPIs.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée une stratégie de contenu complète pour une marque. La stratégie doit inclure les composants suivants :
+
+* **Vue d'ensemble de la marque :** Décris brièvement la marque, y compris sa mission, sa vision et ses valeurs fondamentales.
+* **Analyse du public cible :** Identifie les publics cibles primaires et secondaires de la marque, y compris leurs intérêts, comportements et préférences.
+* **Objectifs de contenu :** Définis les objectifs spécifiques que la stratégie de contenu vise à atteindre, tels que l'augmentation de la notoriété de la marque, la génération de leads ou la fidélisation de la clientèle.
+* **Types de contenu et canaux :** Suggère les types de contenus à créer (ex: articles de blog, vidéos, posts sur les réseaux sociaux, newsletters) et recommande les meilleures plateformes ou canaux pour la distribution.
+* **Calendrier de contenu :** Esquisse un calendrier pour la création et la publication de contenu, en tenant compte des tendances de l'industrie et des dates clés pertinentes pour la marque.
+* **Ton et Style :** Définis les directives de ton et de style pour tout le contenu afin d'assurer une cohérence sur les différentes plateformes.
+* **Indicateurs de performance (KPIs) :** Identifie les indicateurs clés de performance pour mesurer l'efficacité de la stratégie de contenu.
+* **Analyse concurrentielle :** Évalue les stratégies de contenu des concurrents et identifie les opportunités de différenciation.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

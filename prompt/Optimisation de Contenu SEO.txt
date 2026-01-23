@@ -1,0 +1,20 @@
+# Optimisation de Contenu SEO (Guide Complet)
+
+**Description :** Ce prompt agit comme un expert en référencement naturel (SEO) pour créer un guide complet sur l'optimisation de contenu. Il couvre tout, des mots-clés à l'intention de recherche, en passant par les aspects techniques.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée un guide complet sur l'optimisation de contenu pour le SEO (référencement naturel), en abordant toutes les dimensions pertinentes. Ta réponse doit couvrir les aspects suivants :
+
+* **Recherche de Mots-clés :** Stratégies de recherche pour les mots-clés de courte et de longue traîne (short-tail & long-tail). Explique comment équilibrer ces mots-clés pour capter efficacement une audience à la fois large et de niche.
+* **Placement des Mots-clés :** Explique les méthodes pour optimiser le placement des mots-clés dans le contenu, y compris dans les titres, les sous-titres et tout au long du corps du texte.
+* **Optimisation On-Page :** Fournis des techniques pour assurer un bon classement dans les moteurs de recherche. Discute de la façon dont les éléments SEO on-page, tels que les en-têtes (H1, H2...), les attributs ALT des images et les métadonnées, doivent être optimisés.
+* **Maillage Interne :** Illustre des stratégies pour un maillage interne (liens internes) efficace et explique son importance pour le SEO.
+* **Intention de Recherche :** Décris comment aligner le contenu avec l'intention de recherche de l'utilisateur et comment évaluer cette intention avec précision.
+* **Analyse Concurrentielle :** Discute de la façon d'évaluer la difficulté des mots-clés et d'effectuer une analyse concurrentielle pour améliorer la visibilité du contenu.
+* **Bonnes Pratiques Actuelles :** Intègre les meilleures pratiques SEO à jour et prends en compte les derniers algorithmes des moteurs de recherche ainsi que les tendances actuelles dans tes conseils.
+* **Stratégies Avancées :** Suggère des facteurs supplémentaires ou des stratégies innovantes qui pourraient être considérés pour une optimisation complète et pour maintenir un avantage concurrentiel.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

@@ -1,0 +1,17 @@
+# Création de Vidéos "Faceless" (Sans Visage)
+
+**Description :** Ce prompt agit comme un coach en création de contenu pour vous aider à lancer et développer une présence vidéo sur les réseaux sociaux (YouTube, TikTok, Instagram) sans jamais avoir besoin de montrer votre visage ou d'utiliser une caméra.
+
+---
+
+**Prompt à copier-coller :**
+
+"Fournis-moi un guide complet pour commencer à créer des vidéos 'sans visage' (faceless videos) pour des plateformes comme YouTube, Facebook, TikTok et Instagram. Ta réponse doit inclure :
+
+* **Stratégie de Création :** Des stratégies concrètes pour la création de contenu, les logiciels de montage vidéo recommandés (gratuits et payants), et des techniques pour maintenir l'engagement de l'audience sans présence humaine à l'écran.
+* **Guide pour Débutants :** Détaille des ressources et des conseils adaptés aux débutants pour aider quelqu'un de complètement novice à se lancer efficacement sur ces plateformes.
+* **Outils & Ressources :** Si possible, suggère des ressources gratuites, des banques d'images/vidéos libres de droits, ou des outils d'IA qui peuvent aider à démarrer ce parcours à moindre coût.
+* **Plan d'Action :** Offre un plan étape par étape ou une 'checklist' qui décrit les actions essentielles pour commencer à créer et partager du contenu vidéo sans visage dès aujourd'hui.
+* **Spécificités des Plateformes :** Mets l'accent sur les différences notables de style de contenu ou les exigences techniques pour chaque plateforme (YouTube vs TikTok) afin d'optimiser le contenu pour chaque audience spécifique.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

@@ -1,0 +1,17 @@
+# Créateur de Post Facebook Engageant
+
+**Description :** Ce prompt permet de générer rapidement un post Facebook structuré et engageant à partir de quelques notes en vrac.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée un post Facebook basé sur les informations spécifiques fournies par l'utilisateur. Le post doit communiquer efficacement le message de l'utilisateur et engager son audience. Assure-toi de traiter les composants suivants dans le post :
+
+* **Introduction :** Rédige une phrase d'ouverture percutante (le 'hook') qui capte l'attention.
+* **Contenu Principal :** Incorpore les détails spécifiques et les points clés fournis. Assure-toi que le contenu est cohérent et s'aligne avec les intentions de l'utilisateur.
+* **Appel à l'Action (CTA) :** Encourage l'interaction ou une réponse de l'audience. Cela peut être sous forme de commentaires, de likes, de partages ou de visites sur un lien.
+* **Ton et Style :** Ajuste le langage, le ton et le style du post pour correspondre à l'audience visée (ex: décontracté, professionnel, humoristique).
+* **Suggestions Visuelles :** Recommande des images, des émojis ou des hashtags qui pourraient améliorer l'engagement et la visibilité du post.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape."

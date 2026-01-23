@@ -1,0 +1,19 @@
+# Termes et Conditions (Site Web & Coaching)
+
+**Description :** Ce prompt agit comme un conseiller juridique pour rédiger un document complet de Termes et Conditions (CGV/CGU) pour un site web offrant des services de coaching et des ressources numériques.
+
+---
+
+**Prompt à copier-coller :**
+
+"Crée un document complet de Termes et Conditions pour un site web basé au [Votre Pays, ex: Royaume-Uni] qui fournit des ressources, du coaching et l'élaboration de feuilles de route personnalisées, incluant des liens communautaires vers un groupe Facebook. Assure-toi que les Termes et Conditions abordent les éléments suivants :
+
+* **Services Offerts :** Définis la nature des services fournis, y compris le coaching, la disponibilité des ressources et la personnalisation des feuilles de route. Mentionne l'association avec des conseillers experts qui travaillent de manière indépendante et détiennent leur propre assurance responsabilité civile.
+* **Engagement Communautaire :** Détaille les conditions d'engagement avec les liens communautaires du site web, en se concentrant particulièrement sur les sites tiers comme Facebook, et toutes les responsabilités ou obligations liées à l'interaction communautaire.
+* **Limitation Géographique :** Spécifie clairement si le service est disponible exclusivement dans une région donnée (ex: Royaume-Uni) ou à l'international.
+* **Marketing d'Affiliation et Dropshipping :** Bien que non mis en œuvre actuellement, inclus une section décrivant une éventuelle implication future dans le marketing d'affiliation et le dropshipping, en décrivant comment ceux-ci pourraient être intégrés au modèle commercial et les interactions ou accords nécessaires avec les utilisateurs.
+* **Politique de Confidentialité :** Développe une politique de confidentialité solide détaillant la collecte, l'utilisation et la protection des données des utilisateurs, en assurant la conformité avec les normes juridiques pertinentes (ex: RGPD en Europe).
+
+Une fois chaque section rédigée, assure-toi qu'elles sont intégrées de manière cohérente dans un document unique. Utilise un langage clair et formel et prévois des dispositions pour les mises à jour nécessaires à mesure que l'entreprise évolue.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."

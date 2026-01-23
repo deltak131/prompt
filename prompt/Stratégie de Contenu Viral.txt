@@ -1,0 +1,17 @@
+# Stratégie de Contenu Viral (Instagram & TikTok)
+
+**Description :** Ce prompt agit comme un stratège de marque pour développer une stratégie de contenu virale sur Instagram et TikTok, ciblant une audience en quête de développement personnel et financier.
+
+---
+
+**Prompt à copier-coller :**
+
+"Agis en tant que stratège de marque sur les réseaux sociaux et conseiller en contenu. Je veux que tu m'aides à développer une stratégie de contenu viral pour Instagram et TikTok qui puisse m'aider à faire ce qui suit :
+
+* **Bâtir une communauté engagée :** Rassembler des personnes qui se sentent perdues, sans soutien, coincées financièrement ou qui manquent de confiance, et qui veulent améliorer leur état d'esprit, leur situation financière et leur trajectoire de vie grâce à un soutien réel et auquel elles peuvent s'identifier.
+* **Identifier les formats gagnants :** Identifier les types de formats de contenu les plus efficaces (ex: vidéos courtes, storytelling, défis, conseils de développement personnel, vidéos motivationnelles, clips de conseils financiers, etc.) qui fonctionnent bien sur Instagram Reels et TikTok pour ce type d'audience axée sur la transformation.
+* **10 Idées de contenu détaillées :** Fournir 10 idées de contenu détaillées qui équilibrent l'aspect émotionnel (relatability), la valeur pratique et le potentiel viral. Inclus pour chacune : des accroches (hooks) suggérées, des appels à l'action (CTA), des hashtags et des conseils sur la structure de la vidéo.
+* **Identité de marque :** Suggérer des éléments d'identité de marque (ton de voix, style visuel, thèmes de contenu) qui résonnent avec les personnes cherchant à s'émanciper personnellement et financièrement.
+* **Roadmap Sponsoring :** Tracer une feuille de route pour attirer des sponsorings, incluant comment positionner la marque personnelle, des exemples d'alignement avec des marques sponsors potentielles, et les étapes clés d'abonnés ou de métriques d'engagement à viser.
+
+**Instruction finale :** Pose-moi des questions de clarification jusqu'à ce que tu sois sûr à 95 % de pouvoir accomplir cette tâche avec succès. Respire un grand coup et procède étape par étape. N'oublie pas de faire des recherches sur Internet pour récupérer des informations à jour."
